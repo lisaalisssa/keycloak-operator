@@ -38,7 +38,7 @@ const (
 	LivenessProbeProperty                 = "liveness_probe.sh"
 	ReadinessProbeProperty                = "readiness_probe.sh"
 	RouteLoadBalancingStrategy            = "source"
-	IngressDefaultHost                    = "keycloak.local"
+	IngressDefaultHost                    = "orange-prep-keycloak.nokia-solution.com"
 	PostgresqlBackupServiceAccountName    = "keycloak-operator"
 	KeycloakExtensionEnvVar               = "KEYCLOAK_EXTENSIONS"
 	KeycloakExtensionPath                 = "/opt/jboss/keycloak/standalone/deployments"
